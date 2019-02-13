@@ -4,5 +4,9 @@ public class Hello {
 
         System.out.println("Hello, Big Cahoonah!");
 
+        int myFirstNumber = 5;
+
+        System.out.println(myFirstNumber);
+
     }
 }
